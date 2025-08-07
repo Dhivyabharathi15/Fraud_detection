@@ -1,4 +1,4 @@
-TrackSure: Fraud Detection & Dispute Automation
+**TrackSure: Fraud Detection & Dispute Automation**
 
 Project Overview
 This project addresses the growing issue of chargeback fraud in e-commerce transactions. By leveraging SQL in MySQL Workbench, we analyze buyer and seller transaction patterns to detect fraud, automate discrepancy tracking, and support faster dispute resolution. The insights generated from this project are designed to reduce manual effort, assist seller support teams, and improve transparency in seller performance.
