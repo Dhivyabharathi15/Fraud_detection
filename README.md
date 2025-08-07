@@ -6,8 +6,11 @@ This project addresses the growing issue of chargeback fraud in e-commerce trans
 Table of Contents
 
 Introduction
+
 Techniques and Tools Used
+
 Key Insights
+
 Data Sources
 
 Introduction
